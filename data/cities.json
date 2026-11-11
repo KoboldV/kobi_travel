@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Gallipoli",
+      "country": "Italy",
+      "emoji": "IT",
+      "date": "2026-10-15T13:14:51.037Z",
+      "notes": "onako lukaku",
+      "position": {
+        "lat": "40.0517964064166",
+        "lng": "18.017578125000004"
+      },
+      "id": "a09b66c5-3ac8-48bd-b0ee-ecca0890bdde"
+    },
+    {
+      "cityName": "Bern",
+      "country": "Switzerland",
+      "emoji": "CH",
+      "date": "2026-10-15T13:22:11.547Z",
+      "notes": "",
+      "position": {
+        "lat": "46.95119968771708",
+        "lng": "7.447700500488282"
+      },
+      "id": "5c8f45f1-dbb6-4a30-b38b-f19c5ef49376"
+    },
+    {
+      "cityName": "Monaco",
+      "country": "Monaco",
+      "emoji": "MC",
+      "date": "2026-10-16T00:31:39.312Z",
+      "notes": "sdasdasdas",
+      "position": {
+        "lat": "43.729677421697225",
+        "lng": "7.418174743652345"
+      },
+      "id": "8c6548ce-37fb-4035-a12b-51d0ed32657a"
+    },
+    {
+      "cityName": "Bashkia e Korces",
+      "country": "Albania",
+      "emoji": "AL",
+      "date": "2026-10-16T15:05:39.892Z",
+      "notes": "siptar",
+      "position": {
+        "lat": "40.61812224225511",
+        "lng": "20.78475952148438"
+      },
+      "id": "61717c48-8bce-479f-b73e-e28ca64442d9"
+    }
+  ]
+}
