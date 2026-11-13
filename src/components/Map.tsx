@@ -74,9 +74,7 @@ function Map() {
                 key={city.id}
               >
                 <Popup>
-                  <FlagImage
-                    countryCode={flagEmojiToCountryCode(city.emoji)}
-                  ></FlagImage>
+                  <FlagImage countryCode={city.emoji.toLowerCase()}></FlagImage>
                   {city.cityName}
                 </Popup>
               </Marker>
